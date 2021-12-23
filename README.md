@@ -1,4 +1,4 @@
-# An implementation of the Binarized Neural Networks
+7# An implementation of the Binarized Neural Networks
 
 ## Dataset:
 MNIST dataset
@@ -25,8 +25,8 @@ There were two kinds of models named binarized neural networks (1-bit) and full-
 
 |Model|Epoch|Macro F1|Loss|
 |:---:|:---:|:------:|:--:|
-|Full-precision model|35|0.991|0.0382|
-|Binarized neural networks|33|0.978|0.2589
+|Full-precision model|33|0.991|0.0382|
+|Binarized neural networks|35|0.978|0.2589
 
 6. Visualization of some kernels of the models
 
