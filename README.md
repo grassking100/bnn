@@ -1,4 +1,4 @@
-7# An implementation of the Binarized Neural Networks
+# An implementation of the Binarized Neural Networks
 
 ## Dataset:
 MNIST dataset
